@@ -1,6 +1,7 @@
 
 # Desafio Consulta Vendas
-Este projeto fez parte do módulo "JPA, consultas SQL e JPQL" do curso "Java Spring Professional" da DevSuperior. O objetivo é implementar consultas em um sistema de vendas.
+Este projeto fez parte do módulo "JPA, consultas SQL e JPQL" do curso "Java Spring Professional" da DevSuperior. O objetivo é implementar consultas em um sistema de vendas. A pontuação obtida na avaliação foi 4 de 4.
+
 
 ## Descrição do Sistema
 O sistema gerencia vendas (Sale) e vendedores (Seller). Cada venda está associada a um vendedor, e um vendedor pode ter várias vendas.
